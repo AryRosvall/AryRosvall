@@ -1,6 +1,6 @@
 # Ary Rosas | @AryRosvall
 
-Hello World! I'm Ary 🖖🏻, I'm a Product Manager and Full-Stack engineer with 8 years of overall work experience in web application development. 
+Hello World! I'm Ary 🖖🏻, I'm a  Full-Stack engineer and Product Manager with 8+ years of overall work experience in web application development. 
 
 ### 💬 Ask me about:
 
