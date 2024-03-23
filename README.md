@@ -1,12 +1,12 @@
 # Ary Rosas | @AryRosvall
 
-Hello World! I'm Ary 🖖🏻, I'm a  Full-Stack engineer and Product Manager with 8+ years of overall work experience in web application development. 
+Hello World! I'm Ary 🖖🏻, I'm a Full-Stack engineer and Product Manager with 10+ years of work experience in web application development. 
 
 ### 💬 Ask me about:
 
 🎆 Soft Skills 
 
-Agile frameworks • Product Management • PMP • Lead cross-functional and remote teams • Design Thinking • Customer Service Strategies • Public Speaking • English C1
+Agile frameworks • Product Management • PMP • Design Thinking • Customer Service Strategies • Public Speaking • English C1
  
 🎮 Technical Skills 
 
@@ -15,7 +15,6 @@ POO • JavaScript ES6+ • TypeScript • React • Redux • React Router • 
 
 ### 🤝 Get in touch 
 
-[![aryrosvall](https://img.shields.io/badge/aryrosvall.com-blue?style=for-the-badge&logo=appveyor)](https://aryrosvall.com)
 [![Twitter](https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=appveyor)](https://twitter.com/AryRosvall)
 [![GitHub](https://img.shields.io/badge/GITHUB-green?style=for-the-badge&logo=appveyor)](https://github.com/AryRosvall)
 <!--
