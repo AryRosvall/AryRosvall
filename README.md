@@ -15,7 +15,7 @@ POO • JavaScript ES6+ • TypeScript • React • Redux • React Router • 
 
 ### 🤝 Get in touch 
 
-[![Twitter](https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=appveyor)](https://twitter.com/AryRosvall)
+[![X](https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=appveyor)](https://x.com/AryRosvall)
 [![GitHub](https://img.shields.io/badge/GITHUB-green?style=for-the-badge&logo=appveyor)](https://github.com/AryRosvall)
 <!--
 **AryRosvall/AryRosvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
